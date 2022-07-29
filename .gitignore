@@ -1,0 +1,10 @@
+node_modules
+artifacts
+contracts/BinSum
+contracts/*.ptau
+test/
+cache/
+hardhat.config.js
+yarn.lock
+package-lock.json
+contracts/Verifier.sol
